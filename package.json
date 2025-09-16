@@ -12,6 +12,7 @@
     "vite": "^4.0.0"
   },
   "dependencies": {
+    "notyf": "^3.10.0",
     "underscore": "^1.13.6"
   }
 }
